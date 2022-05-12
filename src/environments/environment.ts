@@ -5,13 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyC_zgXyh-b2WQQ0Izyil4Qbgl4BISDaE2Q",
-    authDomain: "ocrecognition-423d0.firebaseapp.com",
-    projectId: "ocrecognition-423d0",
-    storageBucket: "ocrecognition-423d0.appspot.com",
-    messagingSenderId: "502713592796",
-    appId: "1:502713592796:web:70eaba191ad59a5291fd19",
-    measurementId: "G-NGGWG7JERC"
+    apiKey: "AIzaSyC4WjRo5d1cIX8Dlmk4YP_5cLTUc3pQmJw",
+    authDomain: "ocrecognition-b4596.firebaseapp.com",
+    projectId: "ocrecognition-b4596",
+    storageBucket: "ocrecognition-b4596.appspot.com",
+    messagingSenderId: "248154536648",
+    appId: "1:248154536648:web:e9ae1aa1a4e7c800c283fd",
+    measurementId: "G-VMRMZH25MQ"
   }
 };
 
