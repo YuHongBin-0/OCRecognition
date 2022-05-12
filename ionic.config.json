@@ -1,0 +1,7 @@
+{
+  "name": "OCRecognition",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
